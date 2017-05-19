@@ -34,7 +34,7 @@ public class PricePublishMonitor {
 		
 		
 		
-		int interval = 5;
+		int interval = 30;
 		new PricePublishMonitor(
 				//new NewDummyPriceUpdateService(interval),
 				null, // Price Update Service
