@@ -1,2 +1,2 @@
-# MSTest
-MS Test
+Need to provide PriceUpdateService and AlertService in PricePublishMonitor Constructor.
+Main Class : PricePublishMonitor
